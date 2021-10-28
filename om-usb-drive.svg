@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   version="1.1"
+   height="32"
+   id="svg35"
+   sodipodi:docname="om-usb-drive.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title41">om-usb-drive</title>
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="9.765625"
+     inkscape:cx="27.4432"
+     inkscape:cy="10.9568"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5455">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4303">
+      <stop
+         style="stop-color:#c6cdd1"
+         id="stop4305" />
+      <stop
+         offset="1"
+         style="stop-color:#e0e5e7"
+         id="stop4307" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4143">
+      <stop
+         style="stop-color:#197cf1"
+         id="stop4145" />
+      <stop
+         offset="1"
+         style="stop-color:#20bcfa"
+         id="stop4147" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4143-8">
+      <stop
+         style="stop-color:#faae2a"
+         id="stop4145-7" />
+      <stop
+         offset="1"
+         style="stop-color:#ffc35a"
+         id="stop4147-4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4290">
+      <stop
+         style="stop-color:#7cbaf8"
+         id="stop4292" />
+      <stop
+         offset="1"
+         style="stop-color:#f4fcff"
+         id="stop4294" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4227">
+      <stop
+         style="stop-color:#292c2f"
+         id="stop4229" />
+      <stop
+         offset="1"
+         style="stop-opacity:0"
+         id="stop4231" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4143"
+       id="linearGradient81"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0588235,0,0,1.0588257,-26.21011,-32.10676)"
+       y1="545.79797"
+       x2="0"
+       y2="528.79797" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4227"
+       id="linearGradient83"
+       gradientUnits="userSpaceOnUse"
+       x1="10.00001"
+       y1="16"
+       x2="22.00001"
+       y2="28" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4290"
+       id="linearGradient85"
+       gradientUnits="userSpaceOnUse"
+       y1="25"
+       x2="0"
+       y2="17" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4303"
+       id="linearGradient87"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0769231,0,0,1,-33.50552,0)"
+       y1="527.79797"
+       x2="0"
+       y2="517.79797" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4143-8"
+       id="linearGradient89"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.500012)"
+       x1="398.57144"
+       x2="400.57144" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4143-8"
+       id="linearGradient91"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4.500057)"
+       x1="398.57144"
+       x2="400.57144" />
+  </defs>
+  <metadata
+     id="metadata5458">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>om-usb-drive</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>ruru</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(1 0 0 1 -384.57143 -515.798)">
+    <g
+       id="g105"
+       transform="translate(-42.000013,-7.1606653e-5)">
+      <g
+         id="g67"
+         transform="rotate(90,421.57144,552.79807)">
+        <rect
+           width="14"
+           x="393.57144"
+           y="517.79797"
+           height="10.00003"
+           style="fill:url(#linearGradient87)"
+           id="rect57" />
+        <rect
+           width="4.00003"
+           x="395.07144"
+           y="519.79797"
+           height="4.00003"
+           style="fill:#23262c"
+           id="rect59" />
+        <rect
+           width="4.00003"
+           x="402.0715"
+           y="519.79797"
+           height="4.00003"
+           style="fill:#23262c"
+           id="rect61" />
+        <rect
+           width="2.00001"
+           x="396.07144"
+           y="519.79797"
+           height="4"
+           style="fill:url(#linearGradient89)"
+           id="rect63" />
+        <rect
+           width="2.00001"
+           x="403.0715"
+           y="519.79797"
+           height="4"
+           style="fill:url(#linearGradient91)"
+           id="rect65" />
+      </g>
+      <g
+         id="g79"
+         transform="translate(36.999907,-5.0000899)">
+        <rect
+           width="18"
+           x="391.57144"
+           y="527.79816"
+           height="18.00001"
+           style="fill:url(#linearGradient81)"
+           id="rect69" />
+        <rect
+           width="18"
+           x="391.57144"
+           y="544.79797"
+           height="0.99997401"
+           style="fill:#0c69cf"
+           id="rect71" />
+        <g
+           id="g77">
+          <path
+             style="opacity:0.2;fill:url(#linearGradient83);stroke-width:3.77953"
+             id="path73"
+             d="m 14.853516,17.146484 -0.707032,0.707032 3.382813,3.382812 L 16,22 l 8,8 h 1 V 28.707031 27.292969 25 l -5,-5 -1.529297,0.763672 z m -1.146485,3.146485 -1.414062,1.414062 2.5,2.5 -0.5,0.5 L 19.585938,30 h 1 1.828124 1 z"
+             transform="translate(384.57143,515.798)" />
+          <path
+             style="fill:url(#linearGradient85);stroke-width:3.77953"
+             id="path75"
+             d="M 14.5,17 A 0.5,0.5 0 0 0 14,17.5 0.5,0.5 0 0 0 14.5,18 0.5,0.5 0 0 0 15,17.5 0.5,0.5 0 0 0 14.5,17 Z m 2.5,0 -1,1 2,2 -2,2 1,1 3,-3 z m -4,3 a 0.99999499,0.99999499 0 0 0 -1,1 0.99999499,0.99999499 0 0 0 1,1 0.99999499,0.99999499 0 0 0 1,-1 0.99999499,0.99999499 0 0 0 -1,-1 z m 2,3 a 0.99999499,0.99999499 0 0 0 -1,1 0.99999499,0.99999499 0 0 0 1,1 0.99999499,0.99999499 0 0 0 1,-1 0.99999499,0.99999499 0 0 0 -1,-1 z"
+             transform="translate(384.57143,515.798)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

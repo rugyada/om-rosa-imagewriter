@@ -1,0 +1,24 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[it_IT]=Tool for writing installer to USB drive
+Comment=Tool for writing installer to USB drive
+Comment[ru]=Инструментарий записи загрузочных образов на USB-флэш
+Exec=/usr/lib64/rosa-imagewriter/rosa-imagewriter %U
+GenericName[it_IT]=
+GenericName=
+Icon=om-usb-drive.svg
+MimeType=application/x-cd-image;
+Name[it_IT]=ROSA Image Writer
+Name=ROSA Image Writer
+Name[ru]=ROSA Image Writer
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-Desktop-File-Install-Version=0.26
+X-KDE-SubstituteUID=false
+X-KDE-Username=
